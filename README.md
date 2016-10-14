@@ -1,6 +1,6 @@
 
 -------------------------------------------------------------------------------
-### **FastFUCCI-cellcycle (draft version)**
+### **FastFUCCI-cellcycle**
 Set of macros to quantify FastFUCCI cell cycle distribution with ImageJ/Fiji and Columbus(TM) software (Perkin Elmer).
 Codes are in the order of use. Further details included in macros and in original publication XX.
 
